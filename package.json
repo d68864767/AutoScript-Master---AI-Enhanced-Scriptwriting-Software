@@ -1,0 +1,38 @@
+{
+  "name": "autoscript-master",
+  "version": "1.0.0",
+  "description": "AI-Enhanced Scriptwriting Software",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/autoscript-master.git"
+  },
+  "keywords": [
+    "AI",
+    "Scriptwriting",
+    "NLP",
+    "Machine Learning",
+    "Cloud Computing"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yourusername/autoscript-master/issues"
+  },
+  "homepage": "https://github.com/yourusername/autoscript-master#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "mongoose": "^5.12.3",
+    "nodemon": "^2.0.7",
+    "axios": "^0.21.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3"
+  }
+}
